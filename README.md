@@ -36,6 +36,9 @@ or download the whole files in a sequence:
 $ aws s3 sync s3://pohang-canal-dataset/pohang0n <your_directory>/
 ```
 
-
 If you don't have an AWS account, simply add '--no-sign-request' at the end of the command.
 
+
+## Copyright
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
