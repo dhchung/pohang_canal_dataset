@@ -17,7 +17,7 @@ The dataset configuration in AWS S3 is configured as following:
 
 The bucket s3 url is as : s3://pohang-canal-dataset
 
-### pohangXX
+### pohang0n
 
 There are 6 scenarios (pohang00, pohang01, pohang02, pohang03, pohang04, pohang05) where pohang01 and pohang05 is acquired at night and the rest of the scenarios are acquired at daytime. Omnidirectional images are not available for the nighttime dataset (pohang01 and pohang05).
 
